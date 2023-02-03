@@ -7,13 +7,13 @@ load_dotenv()
 # client vars
 API_ID  =  int ( getenv ( "API_ID" ، "23559116" ))
 API_HASH  =  getenv ( "API_HASH" ، "ac878ed19ca558e9a23e891098e328af" )
-BOT_TOKEN = getenv("BOT_TOKEN", "")
-SESSION_NAME = getenv("SESSION_NAME", "")
+BOT_TOKEN = getenv("BOT_TOKEN", "5783978621:AAHJoLEsec64khzOwXH6XdDy6XoT5miuFTo")
+SESSION_NAME = getenv("SESSION_NAME", "AgBSLjNibN9S2HnQstcyD-YtJqKgnN-yCx3JIzsw29IkPgWhzogVRKDCpvuXR1gMdIf9Iltxb5sFIvAeAkp_iE7fR3vvHneN9bSa0UzvyDs2S3AhCE53PSgRG7lcQIM3ZxqOxGHCFdAX4zC5KJbNgExe-3Q8L3gWmIsi9roQ1Djj-uZlMRDItP2wAprog1oQQdau2-TsyoJrstEQnHVm8sbBilyZh-nJ7GFjdNDzz5-4gC9qXCD46OlHntbaE2JxaxXaDSgxIUOPIlzIe8BW3R4C0TQip7Nwv6Ys3v0XJL0dO5ak6T4kWQzfU-BjsVETDF3pCT3Ociu5XdLMu-RD3PuuAAAAATS8SQwA")
 
 # mandatory vars
 OWNER_USERNAME  =  getenv ( "OWNER_USERNAME" ، "OI_I6" )
 ALIVE_NAME = getenv("ALIVE_NAME", "sonng")
-BOT_USERNAME = getenv("BOT_USERNAME", "")
+BOT_USERNAME = getenv("BOT_USERNAME", "OOII5BOT")
 UPSTREAM_REPO  =  getenv ( "UPSTREAM_REPO" ، "https://github.com/vxl3/MyBot" )
 UPSTREAM_BRANCH = getenv("UPSTREM_BRANCH", "main")
 DURATION_LIMIT = int(getenv("DURATION_LIMIT", "60"))
